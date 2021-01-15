@@ -1,2 +1,2 @@
 # MOSZE_beadando
-Modern szoftverfejlesztési eszközök tantárgy beadandó feladat vizsgára
+Modern szoftverfejlesztési eszközök tantárgyhoz beadandó vizsgafeladat
